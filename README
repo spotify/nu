@@ -1,12 +1,12 @@
 INTRODUCTION
 
-Hello and welcome to Nu.
+Hello and Welcome to Nu.
 
 I created Nu because I wanted a better way to write software.
 
 I wanted to write with a language as flexible and powerful as Lisp, but I 
 also wanted to be able to work with the many libraries and high-performance
-subsystems written in C, including the ones that I write myself.  So a tight 
+subsystems written in C, including the ones that I wrote myself.  So a tight 
 integration with C was my highest priority; that ruled and drove the 
 implementation of Nu.  That's why Nu is "C over lambda."
 
@@ -27,8 +27,7 @@ LEGAL
 
 Nu is copyrighted open-source software that is released under the Apache
 License, version 2.0.  For details on the license, see the LICENSE file.
-In its use to name a programming language, "Nu" is a trademark of Radtastical i
-Inc.
+In its use to name a programming language, "Nu" is a trademark of Radtastic Inc.
 
 SYSTEM REQUIREMENTS
 
